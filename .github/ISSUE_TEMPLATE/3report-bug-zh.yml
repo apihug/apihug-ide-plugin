@@ -3,7 +3,7 @@ description: 创建 bug 以帮助我们改进
 title: "[Bug]:"
 labels: [ "bug" ]
 assignees:
-  - kings1990
+  - dearxuecom
 body:
   - type: markdown
     attributes:

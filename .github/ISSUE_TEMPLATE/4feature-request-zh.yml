@@ -3,7 +3,7 @@ description: 为这个项目提出一个想法
 title: "[Feature Request]:"
 labels:
   - enhancement
-assignees: kings1990
+assignees: dearxuecom
 body:
   - type: checkboxes
     id: checklist
