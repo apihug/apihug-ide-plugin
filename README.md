@@ -8,4 +8,6 @@
 [![JetBrains IntelliJ Platform UI Guidelines](https://img.shields.io/badge/JB-UI%20Guidelines-lightgreen)](https://jetbrains.github.io/ui/)
 
 
+[IDE Plugin FAQ](https://github.com/apihug/apihug.com/blob/master/docs/IDE/999_FAQ.md) 🥳
+
 [ApiHug - API design Copilot](https://plugins.jetbrains.com/plugin/23534-apihug--api-design-copilot)
