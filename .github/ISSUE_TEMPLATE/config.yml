@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Handbook
+    url: https://github.com/apihug/apihug.com/tree/master/docs/handbook
+    about: What is apihug, the backgroud of the apihug
+
+  - name: IDE Helper
+    url: https://github.com/apihug/apihug.com/tree/master/docs/IDE
+    about: ApiHug IDE Plugin handbook
+
+  - name: Design Principles
+    url: https://github.com/apihug/apihug.com/tree/master/docs/principles
+    about: ApiHug design principles
+
+  - name: FAQ
+    url: https://github.com/apihug/apihug.com/blob/master/docs/IDE/999_FAQ.md
+    about: Frequently asked questions

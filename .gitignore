@@ -1,0 +1,9 @@
+.gradle
+.idea
+.qodana
+build
+.sandbox
+.local
+.out
+./todo.md
+./apihug-ide-plugin.iml
